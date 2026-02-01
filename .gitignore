@@ -1,0 +1,12 @@
+# Environment file with secrets
+.env
+.venv
+
+# Log files
+*.log
+
+# Python cache
+__pycache__/
+
+# Dataset
+*.jsonl
