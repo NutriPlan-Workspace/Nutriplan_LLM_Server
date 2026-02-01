@@ -7,5 +7,5 @@ langchain-core
 langchain-openai
 langchain-huggingface
 pymongo
-ddgs
+duckduckgo-search
 dotenv
