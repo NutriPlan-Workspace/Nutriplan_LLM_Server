@@ -9,3 +9,5 @@ langchain-huggingface
 pymongo
 ddgs
 dotenv
+torch
+sentence-transformers --use-deprecated=legacy-resolver
